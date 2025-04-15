@@ -15,8 +15,8 @@ This guide explains how to set up, run, and test the application.
 1. **Clone the Repository**:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/LVSMix/challengeBCI
+cd challengeBCI
 ```
 2. Build the Project: Run the following command to build the project and download dependencies:
 
